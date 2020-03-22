@@ -1,0 +1,122 @@
+[
+    {
+        "state": "Andaman and Nicobar Island",
+        "contact": "03192-232102"
+    },
+    {
+        "state": "Chandigarh",
+        "contact": "9779558282"
+    },
+    {
+        "state": "Dadra and Nagar Haveli - Daman and Diu",
+        "contact": "104"
+    },
+    {
+        "state": "Delhi",
+        "contact": "011-22307145"
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "contact": "0912520982"
+    },
+    {
+        "state": "Ladakh",
+        "contact": "01982256462"
+    },
+    {
+        "state": "Lakshadweep",
+        "contact": "104"
+    },
+    {
+        "state": "Puducherry",
+        "contact": "104"
+    },
+    {
+        "state": "Andhra Pradesh",
+        "contact": "0866-2410978"
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "contact": "9436055743"
+    },
+    {
+        "state": "Assam",
+        "contact": "6913347770"
+    },
+    {
+        "state": "Bihar",
+        "contact": "104"
+    },{
+        "state": "Chattisgarh",
+        "contact": "104"
+    },{
+        "state":"Goa",
+        "contact": "104"
+    },{
+        "state": "Gujrat",
+        "contact": "104"
+    },{
+        "state": "Haryana",
+        "contact": "8558893911"
+    },{
+        "state": "Himachal Pradesh",
+        "contact": "104"
+    },{
+        "state": "Jharkhand",
+        "contact" :"104"
+    },{
+        "state": "Karnataka",
+        "contact": "104" 
+    },{
+        "state": "Kerala",
+        "contact": "0471-2552056"
+    },{
+        "state": "Madhya Pradesh",
+        "contact": "0755-2527177"
+    },{
+        "state": "Maharashtra",
+        "contact": "020-26127394"
+    },{
+        "state": "Manipur",
+        "contact": "3852411668"
+    },{
+        "state": "Meghalay",
+        "contact": "108"
+    },{
+        "state": "Mizoram",
+        "contact": "102"
+    },{
+        "state": "Nagaland",
+        "contact": "7005539653"
+    },{
+        "state": "Odisha",
+        "contact": "9439994859"
+    },{
+        "state": "Punjab",
+        "contact": "104"
+    },{
+        "state": "Rajasthan",
+        "contact": "0141-2225624"
+    },{
+        "state": "Sikkim",
+        "contact": "104"
+    },{
+        "state": "TamilNadu",
+        "contact": "044-29510500"
+    },{
+        "state": "Telangana",
+        "contact": "104"
+    },{
+        "state": "Tripura",
+        "contact" : "0381-2315879"
+    },{
+        "state": "Uttarakhand",
+        "contact": "104"
+    },{
+        "state": "Uttar Pradesh",
+        "contact": "18001805145"
+    },{
+        "state": "West Bengal",
+        "contact": "3323412600"
+    }
+]
