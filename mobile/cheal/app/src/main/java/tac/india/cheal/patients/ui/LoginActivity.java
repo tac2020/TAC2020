@@ -67,8 +67,8 @@ public class LoginActivity extends AppCompatActivity {
     private void bindHolder() {
 
         viewHolder.setBtnLogin((Button) findViewById(R.id.btn_login));
-        viewHolder.setTietPassword((TextInputEditText) findViewById(R.id.til_password));
-        viewHolder.setTietUsername((TextInputEditText) findViewById(R.id.til_username));
+        viewHolder.setTietPassword((TextInputEditText) findViewById(R.id.tiet_password));
+        viewHolder.setTietUsername((TextInputEditText) findViewById(R.id.tiet_username));
 
     }
 }
