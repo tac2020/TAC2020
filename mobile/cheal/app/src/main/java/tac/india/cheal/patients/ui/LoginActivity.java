@@ -52,7 +52,7 @@ public class LoginActivity extends AppCompatActivity {
         viewHolder.getBtnLogin().setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if(viewHolder.getTietPassword().getEditableText().equals("123")){
+                if(viewHolder.getTietPassword().getEditableText().toString().equals("123")){
                     Intent dashboardActivityIntent = new Intent(LoginActivity.this,
                             DashboardActivity.class);
                     startActivity(dashboardActivityIntent);
