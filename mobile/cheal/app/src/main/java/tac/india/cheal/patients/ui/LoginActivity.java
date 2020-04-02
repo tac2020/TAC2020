@@ -11,6 +11,7 @@ import android.widget.Toast;
 import com.google.android.material.textfield.TextInputEditText;
 
 import tac.india.cheal.R;
+import tac.india.cheal.patients.ui.dashboard.DashboardActivity;
 
 public class LoginActivity extends AppCompatActivity {
 

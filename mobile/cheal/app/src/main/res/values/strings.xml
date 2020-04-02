@@ -3,4 +3,7 @@
     <string name="enter_password">Enter Password</string>
     <string name="enter_username">Enter Username</string>
     <string name="c_heal">C-HEAL</string>
+    <string name="this_is_a_subtitle">This is a Subtitle</string>
+    <string name="this_is_a_title">This is a Title</string>
+    <string name="welcome_to_the_dashboard">Welcome to the Dashboard</string>
 </resources>
